@@ -1,0 +1,11 @@
+{
+  "name": "fintecker-weapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "http://47.99.77.200:8088/fintecker/fintecker-weapp.git",
+  "author": "Xiang.T <195807874@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vant-weapp": "^0.5.8"
+  }
+}
